@@ -1,0 +1,469 @@
+SUBDIVISION,YEAR,FORECAST_RAINFALL,mean,std,Alert,Farmer_Advisory
+Andaman & Nicobar Islands,2018,3026.9373,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2019,3044.7605,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2020,3094.2625,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2021,3335.9966,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2022,3121.2449,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2023,3003.437,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2024,3077.2356,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2025,3268.1675,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2026,3337.779,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2027,3366.746,2833.221450866092,527.5294611486829,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Andaman & Nicobar Islands,2028,3158.2378,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2029,3125.6199,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Andaman & Nicobar Islands,2030,3206.147,2833.221450866092,527.5294611486829,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2018,2626.618,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2019,2900.6133,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2020,2717.903,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2021,2934.546,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2022,2872.9978,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2023,3018.2537,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2024,3121.0151,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2025,3211.31,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2026,3213.4197,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2027,3217.8984,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2028,3462.1023,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2029,3392.2026,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Arunachal Pradesh,2030,3198.1702,3275.7350726430627,1105.0307445836916,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2018,2572.4255,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2019,2566.732,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2020,2488.1545,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2021,2567.0364,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2022,2668.9592,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2023,2682.7524,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2024,2654.6697,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2025,2700.2258,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2026,2811.3267,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2027,2729.6733,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2028,2869.4058,2574.183035714286,313.12293210578054,Normal,Suitable conditions for normal agricultural activities.
+Assam & Meghalaya,2029,2905.122,2574.183035714286,313.12293210578054,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Assam & Meghalaya,2030,3016.5454,2574.183035714286,313.12293210578054,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Bihar,2018,1210.246,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2019,1226.7843,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2020,898.14294,1196.9205357142857,193.1021310030229,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Bihar,2021,1045.2646,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2022,1194.5841,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2023,1141.5374,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2024,1105.1084,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2025,1189.9744,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2026,1176.2875,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2027,1145.3484,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2028,1014.98663,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2029,1191.6244,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Bihar,2030,1219.7806,1196.9205357142857,193.1021310030229,Normal,Suitable conditions for normal agricultural activities.
+Chhattisgarh,2018,932.3892,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2019,1118.3586,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2020,1180.6761,1373.2446428571427,209.95700711314035,Normal,Suitable conditions for normal agricultural activities.
+Chhattisgarh,2021,1138.5009,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2022,1124.3132,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2023,1188.6095,1373.2446428571427,209.95700711314035,Normal,Suitable conditions for normal agricultural activities.
+Chhattisgarh,2024,1224.13,1373.2446428571427,209.95700711314035,Normal,Suitable conditions for normal agricultural activities.
+Chhattisgarh,2025,896.49835,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2026,1045.2646,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2027,1194.5841,1373.2446428571427,209.95700711314035,Normal,Suitable conditions for normal agricultural activities.
+Chhattisgarh,2028,1162.5889,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2029,1108.9756,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Chhattisgarh,2030,1110.4873,1373.2446428571427,209.95700711314035,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Coastal Andhra Pradesh,2018,1098.4967,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2019,988.75757,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2020,1138.6879,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2021,1191.881,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2022,1206.6189,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2023,870.8812,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2024,1062.7712,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2025,1175.9485,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2026,1184.9739,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2027,1091.139,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2028,1112.2797,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2029,1194.0039,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Andhra Pradesh,2030,1221.9376,1052.2910714285715,189.8772009776159,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2018,2777.8875,3389.897760777785,522.0818542574991,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Coastal Karnataka,2019,3059.0854,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2020,3066.3184,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2021,3069.4673,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2022,3412.9697,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2023,3192.6497,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2024,3189.723,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2025,3249.0703,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2026,3316.423,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2027,3187.3965,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2028,3233.8667,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2029,3223.7856,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+Coastal Karnataka,2030,3328.8376,3389.897760777785,522.0818542574991,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2018,1188.7549,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2019,1201.4479,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2020,1118.4376,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2021,1043.3386,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2022,1188.9243,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2023,1261.254,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2024,1020.1225,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2025,1127.2974,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2026,1222.583,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2027,1287.2527,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2028,891.4437,1207.4098214285714,222.0326284600276,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+East Madhya Pradesh,2029,1037.9105,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Madhya Pradesh,2030,1179.8763,1207.4098214285714,222.0326284600276,Normal,Suitable conditions for normal agricultural activities.
+East Rajasthan,2018,852.6329,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2019,959.375,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2020,771.23096,662.1383928571429,164.10717397099125,Normal,Suitable conditions for normal agricultural activities.
+East Rajasthan,2021,1104.578,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2022,1022.1138,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2023,959.14087,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2024,1203.2905,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2025,1241.4573,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2026,1125.1249,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2027,878.1574,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2028,1185.6256,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2029,1156.0948,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Rajasthan,2030,1117.6487,662.1383928571429,164.10717397099125,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Uttar Pradesh,2018,904.14355,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2019,846.8733,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2020,851.5002,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2021,1009.37103,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2022,987.9191,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2023,1007.38794,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2024,1124.4454,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2025,1199.4473,975.1660714285715,206.39916655742215,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Uttar Pradesh,2026,1222.9948,975.1660714285715,206.39916655742215,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Uttar Pradesh,2027,874.6601,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2028,1065.1022,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+East Uttar Pradesh,2029,1194.3882,975.1660714285715,206.39916655742215,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+East Uttar Pradesh,2030,1181.4863,975.1660714285715,206.39916655742215,Normal,Suitable conditions for normal agricultural activities.
+Gangetic West Bengal,2018,1438.4131,1492.51875,231.17334416120661,Normal,Suitable conditions for normal agricultural activities.
+Gangetic West Bengal,2019,1231.5094,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2020,1148.0643,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2021,970.52234,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2022,1207.423,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2023,1228.3717,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2024,1228.5486,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2025,912.3779,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2026,1047.5579,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2027,1204.5537,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2028,1137.8374,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2029,1118.0531,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gangetic West Bengal,2030,1170.4647,1492.51875,231.17334416120661,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Gujarat Region,2018,882.32654,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2019,830.11786,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2020,1068.6818,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2021,891.6028,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2022,1030.1622,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2023,1065.0402,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2024,1152.0148,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2025,1169.1677,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2026,1161.2415,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2027,1059.9435,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2028,1136.688,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2029,1190.0082,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Gujarat Region,2030,1187.418,926.5705357142857,277.2910220793969,Normal,Suitable conditions for normal agricultural activities.
+Haryana Delhi & Chandigarh,2018,549.4656,533.3741071428572,142.29213620654744,Normal,Suitable conditions for normal agricultural activities.
+Haryana Delhi & Chandigarh,2019,602.253,533.3741071428572,142.29213620654744,Normal,Suitable conditions for normal agricultural activities.
+Haryana Delhi & Chandigarh,2020,600.9481,533.3741071428572,142.29213620654744,Normal,Suitable conditions for normal agricultural activities.
+Haryana Delhi & Chandigarh,2021,779.90985,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2022,760.177,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2023,813.3138,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2024,861.2768,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2025,748.63074,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2026,983.7533,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2027,921.3838,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2028,854.6786,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2029,990.6476,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Haryana Delhi & Chandigarh,2030,937.9937,533.3741071428572,142.29213620654744,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Himachal Pradesh,2018,1156.0652,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2019,1087.4814,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2020,1167.8395,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2021,1174.0801,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2022,1143.7612,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2023,1073.4548,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2024,1190.2203,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2025,1231.2484,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2026,1013.92633,1266.3892857142857,246.27869233570388,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Himachal Pradesh,2027,1143.0171,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2028,1218.4866,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2029,1263.6504,1266.3892857142857,246.27869233570388,Normal,Suitable conditions for normal agricultural activities.
+Himachal Pradesh,2030,890.6624,1266.3892857142857,246.27869233570388,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jammu & Kashmir,2018,1122.8899,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2019,1245.5659,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2020,1087.0892,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2021,1120.8723,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2022,1222.0667,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2023,1217.1415,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2024,875.7904,1145.9665107777853,235.63848358661215,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jammu & Kashmir,2025,1041.2712,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2026,1179.5905,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2027,1178.5245,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2028,1112.0626,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2029,1107.5774,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jammu & Kashmir,2030,1196.3456,1145.9665107777853,235.63848358661215,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2018,1001.49854,1308.1955357142856,199.99101483798367,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jharkhand,2019,1154.0928,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2020,1170.2135,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2021,1276.722,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2022,898.65125,1308.1955357142856,199.99101483798367,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jharkhand,2023,1069.0173,1308.1955357142856,199.99101483798367,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jharkhand,2024,1192.9366,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2025,1141.5374,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2026,1107.7397,1308.1955357142856,199.99101483798367,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jharkhand,2027,1189.9744,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2028,1207.0952,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Jharkhand,2029,1016.7216,1308.1955357142856,199.99101483798367,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Jharkhand,2030,1143.0171,1308.1955357142856,199.99101483798367,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2018,2522.7812,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2019,2152.966,2904.0107142857146,434.7562760027848,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Kerala,2020,2460.386,2904.0107142857146,434.7562760027848,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Kerala,2021,2606.16,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2022,2397.2764,2904.0107142857146,434.7562760027848,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Kerala,2023,2451.2095,2904.0107142857146,434.7562760027848,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Kerala,2024,2684.4087,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2025,2518.2776,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2026,2490.771,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2027,2674.24,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2028,2821.8542,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2029,2703.0083,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Kerala,2030,2921.6992,2904.0107142857146,434.7562760027848,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2018,2999.1917,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2019,2672.8625,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2020,3404.1865,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2021,3114.1108,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2022,2934.2834,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2023,3100.9507,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2024,3283.866,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2025,3274.298,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2026,3376.2803,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2027,3254.3533,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2028,3097.5703,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2029,3175.6982,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Konkan & Goa,2030,3269.1846,3008.157142857143,476.98782195236635,Normal,Suitable conditions for normal agricultural activities.
+Lakshadweep,2018,1442.2358,1571.0864150551322,261.3746629566658,Normal,Suitable conditions for normal agricultural activities.
+Lakshadweep,2019,1243.6942,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2020,1155.3297,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2021,999.7539,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2022,1257.836,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2023,1174.1888,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2024,1217.755,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2025,915.56116,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2026,1045.6805,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2027,1183.8394,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2028,1150.5563,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2029,1105.1084,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Lakshadweep,2030,1159.8572,1571.0864150551322,261.3746629566658,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Madhya Maharashtra,2018,879.5599,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2019,893.5175,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2020,934.9558,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2021,929.2172,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2022,985.5268,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2023,893.52673,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2024,954.52734,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Madhya Maharashtra,2025,1124.3707,889.24375,155.17408171554052,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Madhya Maharashtra,2026,1077.6569,889.24375,155.17408171554052,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Madhya Maharashtra,2027,1142.2568,889.24375,155.17408171554052,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Madhya Maharashtra,2028,1206.3138,889.24375,155.17408171554052,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Madhya Maharashtra,2029,1176.2552,889.24375,155.17408171554052,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Madhya Maharashtra,2030,1020.0582,889.24375,155.17408171554052,Normal,Suitable conditions for normal agricultural activities.
+Matathwada,2018,1007.0589,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2019,913.9413,792.4321428571428,188.4367187560508,Normal,Suitable conditions for normal agricultural activities.
+Matathwada,2020,837.99695,792.4321428571428,188.4367187560508,Normal,Suitable conditions for normal agricultural activities.
+Matathwada,2021,1097.408,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2022,918.65845,792.4321428571428,188.4367187560508,Normal,Suitable conditions for normal agricultural activities.
+Matathwada,2023,1076.9541,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2024,1173.0703,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2025,1167.9957,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2026,1135.4653,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2027,1106.8938,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2028,1190.2203,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2029,1232.7094,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Matathwada,2030,1006.98816,792.4321428571428,188.4367187560508,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Naga Mani Mizo Tripura,2018,2048.1777,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2019,2264.6506,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2020,2500.171,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2021,2314.0737,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2022,2215.4143,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2023,2732.9602,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2024,2292.1384,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2025,2326.204,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2026,2589.4854,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2027,2350.183,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2028,2102.0596,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2029,2657.3335,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+Naga Mani Mizo Tripura,2030,2390.4634,2437.558035714286,439.2724768795039,Normal,Suitable conditions for normal agricultural activities.
+North Interior Karnataka,2018,943.2539,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2019,743.3463,717.9348214285714,132.39868586880928,Normal,Suitable conditions for normal agricultural activities.
+North Interior Karnataka,2020,899.15015,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2021,833.0329,717.9348214285714,132.39868586880928,Normal,Suitable conditions for normal agricultural activities.
+North Interior Karnataka,2022,906.36554,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2023,878.071,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2024,870.48663,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2025,897.212,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2026,905.256,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2027,927.73785,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2028,945.88605,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2029,937.5686,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+North Interior Karnataka,2030,903.2216,717.9348214285714,132.39868586880928,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Orissa,2018,1051.3108,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2019,1070.3997,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2020,1177.3928,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2021,1254.7228,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2022,980.5577,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2023,1138.6936,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2024,1202.2198,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2025,1314.7502,1457.2669642857143,189.31282105056914,Normal,Suitable conditions for normal agricultural activities.
+Orissa,2026,890.1036,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2027,1037.9105,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2028,1170.4291,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2029,1175.2681,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Orissa,2030,1115.8566,1457.2669642857143,189.31282105056914,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Punjab,2018,662.9675,596.6053571428572,163.94682825100642,Normal,Suitable conditions for normal agricultural activities.
+Punjab,2019,608.9616,596.6053571428572,163.94682825100642,Normal,Suitable conditions for normal agricultural activities.
+Punjab,2020,741.8895,596.6053571428572,163.94682825100642,Normal,Suitable conditions for normal agricultural activities.
+Punjab,2021,784.3731,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2022,806.698,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2023,849.3406,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2024,874.43164,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2025,843.61725,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2026,987.6034,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2027,971.90045,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2028,1011.6579,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2029,1090.1997,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Punjab,2030,1182.4434,596.6053571428572,163.94682825100642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2018,890.8438,765.1446428571428,146.19193285644639,Normal,Suitable conditions for normal agricultural activities.
+Rayalseema,2019,824.3788,765.1446428571428,146.19193285644639,Normal,Suitable conditions for normal agricultural activities.
+Rayalseema,2020,978.4821,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2021,864.02167,765.1446428571428,146.19193285644639,Normal,Suitable conditions for normal agricultural activities.
+Rayalseema,2022,906.5072,765.1446428571428,146.19193285644639,Normal,Suitable conditions for normal agricultural activities.
+Rayalseema,2023,1035.3198,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2024,928.43146,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2025,997.6279,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2026,1040.1156,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2027,1030.8304,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2028,1167.0077,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2029,1192.8944,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Rayalseema,2030,1127.3982,765.1446428571428,146.19193285644639,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2018,680.688,504.44464285714287,199.49091552360943,Normal,Suitable conditions for normal agricultural activities.
+Saurashtra & Kutch,2019,802.58936,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2020,808.10144,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2021,837.6183,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2022,874.43164,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2023,883.2963,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2024,901.4757,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2025,895.8069,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2026,912.39,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2027,940.10406,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2028,933.072,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2029,929.6721,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Saurashtra & Kutch,2030,903.2216,504.44464285714287,199.49091552360943,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+South Interior Karnataka,2018,1109.4681,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2019,1074.3839,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2020,1195.427,1040.1410714285714,151.46697826637995,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+South Interior Karnataka,2021,1188.3202,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2022,1116.4967,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2023,1006.89166,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2024,1197.7496,1040.1410714285714,151.46697826637995,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+South Interior Karnataka,2025,1230.0192,1040.1410714285714,151.46697826637995,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+South Interior Karnataka,2026,1178.592,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2027,953.7823,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2028,1111.0437,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2029,1173.2269,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+South Interior Karnataka,2030,1167.5513,1040.1410714285714,151.46697826637995,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2018,2642.4792,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2019,2556.4114,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2020,2666.747,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2021,2618.9856,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2022,2599.7764,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2023,2639.7678,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2024,2608.1162,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2025,2612.6245,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2026,2631.0706,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2027,2608.1162,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2028,2608.1162,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2029,2640.1506,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Sub Himalayan West Bengal & Sikkim,2030,2608.1162,2758.4080357142857,327.6107974709171,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2018,810.0289,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2019,1025.4927,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2020,1000.3875,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2021,993.34235,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2022,1151.2808,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2023,1121.7637,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2024,1197.9598,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2025,1152.4794,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2026,1101.777,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2027,1190.074,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2028,1221.975,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Tamil Nadu,2029,1017.4661,940.0749999999999,167.8722516763354,Normal,Suitable conditions for normal agricultural activities.
+Tamil Nadu,2030,1147.3439,940.0749999999999,167.8722516763354,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2018,1184.4011,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2019,1071.6942,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2020,1113.3724,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2021,1206.0254,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2022,1186.3794,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2023,1027.1193,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2024,1138.3541,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2025,1191.3905,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2026,1204.358,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Telangana,2027,895.77625,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2028,1074.6625,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2029,1155.9081,959.8616071428571,198.94540391256683,Normal,Suitable conditions for normal agricultural activities.
+Telangana,2030,1160.575,959.8616071428571,198.94540391256683,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+Uttarakhand,2018,1220.84,1467.4321428571427,266.5962017984968,Normal,Suitable conditions for normal agricultural activities.
+Uttarakhand,2019,1054.9869,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2020,916.8324,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2021,1176.6283,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2022,1273.9758,1467.4321428571427,266.5962017984968,Normal,Suitable conditions for normal agricultural activities.
+Uttarakhand,2023,1097.0916,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2024,885.16644,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2025,1134.624,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2026,1182.2107,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2027,1156.1233,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2028,1092.0447,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2029,1180.6107,1467.4321428571427,266.5962017984968,Drought Alert,Use drought-resistant crops and implement water conservation practices.
+Uttarakhand,2030,1231.7479,1467.4321428571427,266.5962017984968,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2018,1175.3977,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2019,1194.9998,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2020,1056.3059,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2021,1118.121,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2022,1212.8499,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2023,1225.7686,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2024,899.4542,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2025,1069.0173,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2026,1177.2806,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2027,1141.5374,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2028,1114.5563,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2029,1191.2617,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+Vidarbha,2030,1207.0952,1099.8035714285713,202.04439835355222,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2018,1328.4006,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2019,1174.8491,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2020,1080.7994,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2021,913.16113,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2022,1224.7323,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2023,1225.3918,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2024,1099.2382,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2025,902.203,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2026,1222.8491,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2027,1186.1184,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Madhya Pradesh,2028,1083.9034,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2029,1074.2457,954.3120464920711,187.57538987623124,Normal,Suitable conditions for normal agricultural activities.
+West Madhya Pradesh,2030,1190.2926,954.3120464920711,187.57538987623124,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2018,530.2644,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2019,602.11743,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2020,627.93823,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2021,701.85547,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2022,726.0338,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2023,856.95306,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2024,726.0077,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2025,898.61786,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2026,841.22046,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2027,892.7076,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2028,898.7781,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2029,910.6376,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Rajasthan,2030,944.5069,298.8294642857143,107.70871600020642,Heavy Rainfall Alert,Improve drainage systems and prepare flood protection measures.
+West Uttar Pradesh,2018,779.7939,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2019,759.3847,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2020,912.3113,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2021,796.7542,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2022,875.342,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2023,891.83484,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2024,820.9141,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2025,996.8045,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2026,900.2732,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2027,938.27637,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2028,978.491,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2029,973.4766,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
+West Uttar Pradesh,2030,967.89404,827.6482142857143,189.74690443991506,Normal,Suitable conditions for normal agricultural activities.
